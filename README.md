@@ -1,5 +1,5 @@
 # Applications of AI and Computer Vision in Agriculture-Fruit recognition, localization and segmentation
-- Utilise start-of-the-art CNN architectures technologies: Instance Segmentation to realise fruit recognition, localisation and segmentation in the farm, where the data is from open source dataset-ACFR farm Fruit Data Set collected at the farm in Warburton, Australia.
+- Utilise start-of-the-art CNN architectures technologies: Instance Segmentation to realise fruit recognition, localisation and segmentation in the farm, where the data is from open source dataset-ACFR farm Fruit Dataset collected at the farm in Warburton, Australia.
 
 # Data Soruce
 - https://data.acfr.usyd.edu.au/ag/treecrops/2016-multifruit/ 

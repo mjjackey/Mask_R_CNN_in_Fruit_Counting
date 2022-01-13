@@ -5,14 +5,14 @@
 - https://data.acfr.usyd.edu.au/ag/treecrops/2016-multifruit/ 
 - Use the Apples data set
 
-# Directory description
+# Directory Description
 
 - mrcnn: main code files
 - datasets: the data set intending to train
 - samples/fruit: the codes for specified data sets, here is fruit data set
 - logs: save the trained weights files
 
-# How to run code
+# How to Run Code
 
 1. Enter the Mask_RCNN directory
 2. Install dependencies
